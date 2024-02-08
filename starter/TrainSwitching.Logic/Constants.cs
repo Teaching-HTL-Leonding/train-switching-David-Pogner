@@ -13,5 +13,4 @@ public static class Constants
 
     public const int DIRECTION_EAST = 0;
     public const int DIRECTION_WEST = 1;
-
 }
